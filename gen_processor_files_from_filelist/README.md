@@ -6,5 +6,7 @@
 ## Solution
 - generate processor stub file from template for each file in folder:
 cp template to_new_specific_name
+(this is done by auto_copy.sh)
 - adapt each stub file:
 replace placeholder with filename of to be processed file
+(this is done by auto_change.sh)
